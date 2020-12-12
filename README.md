@@ -1,0 +1,1 @@
+This is Amina B's first git project!
